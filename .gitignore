@@ -224,11 +224,3 @@ data/processed/
 *.avi
 *.mov
 
-pipeline/outputs/
-logs/
-experiments/
-app/
-docker/
-docs/
-tests/
-dashboard/
