@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/raw/
+data/processed/
+
+*.mp4
+*.avi
+*.mov
+
+pipeline/outputs/
+logs/
+experiments/
+app/
+docker/
+docs/
+tests/
+dashboard/

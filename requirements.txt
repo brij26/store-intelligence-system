@@ -1,0 +1,15 @@
+ultralytics
+opencv-python
+numpy
+pandas
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+streamlit
+pytest
+httpx
+shapely
+filterpy
+lap
