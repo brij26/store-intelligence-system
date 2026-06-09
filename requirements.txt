@@ -11,5 +11,6 @@ streamlit
 pytest
 httpx
 shapely
+supervision
 filterpy
 lap
