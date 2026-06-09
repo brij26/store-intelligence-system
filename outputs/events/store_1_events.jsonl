@@ -1,0 +1,208 @@
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "unknown", "timestamp": "2026-06-09 12:08:06.061445"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "unknown", "timestamp": "2026-06-09 12:08:07.537855"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "walkway_zone_near_entry_left", "timestamp": "2026-06-09 12:08:08.322152"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 12:08:10.657780"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:20:39.533581"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:20:40.962849"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 12:20:41.789646"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:20:44.113987"}
+{"event_type": "ZONE_EXIT", "track_id": 4, "zone": "outside_walkway_zone", "dwell_time_seconds": 1.13194, "timestamp": "2026-06-09 12:20:45.245927"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 12:20:45.245927"}
+{"event_type": "ZONE_EXIT", "track_id": 3, "zone": "unknown", "dwell_time_seconds": 6.662336, "timestamp": "2026-06-09 12:20:48.451982"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "round_shelf_zone", "timestamp": "2026-06-09 12:20:48.451982"}
+{"event_type": "ZONE_EXIT", "track_id": 3, "zone": "round_shelf_zone", "dwell_time_seconds": 30.873184, "timestamp": "2026-06-09 12:21:19.325166"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 12:21:19.325166"}
+{"event_type": "ZONE_EXIT", "track_id": 3, "zone": "unknown", "dwell_time_seconds": 14.993322, "timestamp": "2026-06-09 12:21:34.318488"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "round_shelf_zone", "timestamp": "2026-06-09 12:21:34.318488"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:48:58.585553"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:49:00.944162"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 12:49:02.153962"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 12:49:05.526637"}
+{"event_type": "ZONE_EXIT", "track_id": 4, "zone": "outside_walkway_zone", "dwell_time_seconds": 3.968361, "timestamp": "2026-06-09 12:49:09.494998"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 12:49:09.494998"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:17:47.765373"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:17:49.800643"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 13:17:51.153329"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:17:54.876157"}
+{"event_type": "ZONE_EXIT", "track_id": 4, "zone": "outside_walkway_zone", "dwell_time_seconds": 1.715211, "timestamp": "2026-06-09 13:17:56.591368"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 13:17:56.591368"}
+{"event_type": "ZONE_EXIT", "track_id": 3, "zone": "unknown", "dwell_time_seconds": 10.924641, "timestamp": "2026-06-09 13:18:02.077970"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "round_shelf_zone", "timestamp": "2026-06-09 13:18:02.077970"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:30.428911"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:30.428911"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 13:20:34.179477"}
+{"event_type": "ZONE_EXIT", "track_id": 2, "zone": "outside_walkway_zone", "dwell_time_seconds": 4.202576, "timestamp": "2026-06-09 13:20:34.631487"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "entry_zone", "timestamp": "2026-06-09 13:20:34.631487"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 13:20:36.084319"}
+{"event_type": "ZONE_ENTER", "track_id": 5, "zone": "unknown", "timestamp": "2026-06-09 13:20:37.218715"}
+{"event_type": "ZONE_ENTER", "track_id": 6, "zone": "unknown", "timestamp": "2026-06-09 13:20:37.220909"}
+{"event_type": "ZONE_ENTER", "track_id": 7, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:37.951410"}
+{"event_type": "ZONE_ENTER", "track_id": 8, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:38.092368"}
+{"event_type": "ZONE_EXIT", "track_id": 2, "zone": "entry_zone", "dwell_time_seconds": 4.736734, "timestamp": "2026-06-09 13:20:39.368221"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "entry_buffer_zone", "timestamp": "2026-06-09 13:20:39.368221"}
+{"event_type": "ZONE_ENTER", "track_id": 9, "zone": "entry_zone", "timestamp": "2026-06-09 13:20:39.780908"}
+{"event_type": "ZONE_EXIT", "track_id": 6, "zone": "unknown", "dwell_time_seconds": 5.325648, "timestamp": "2026-06-09 13:20:42.546557"}
+{"event_type": "ZONE_ENTER", "track_id": 6, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:42.546557"}
+{"event_type": "ZONE_EXIT", "track_id": 9, "zone": "entry_zone", "dwell_time_seconds": 3.63182, "timestamp": "2026-06-09 13:20:43.412728"}
+{"event_type": "ZONE_ENTER", "track_id": 9, "zone": "unknown", "timestamp": "2026-06-09 13:20:43.412728"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "unknown", "timestamp": "2026-06-09 13:20:43.538987"}
+{"event_type": "ZONE_ENTER", "track_id": 11, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:47.700205"}
+{"event_type": "ZONE_ENTER", "track_id": 12, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:48.795221"}
+{"event_type": "ZONE_EXIT", "track_id": 6, "zone": "outside_walkway_zone", "dwell_time_seconds": 7.243476, "timestamp": "2026-06-09 13:20:49.790033"}
+{"event_type": "ZONE_ENTER", "track_id": 6, "zone": "entry_zone", "timestamp": "2026-06-09 13:20:49.790033"}
+{"event_type": "ZONE_EXIT", "track_id": 12, "zone": "outside_walkway_zone", "dwell_time_seconds": 4.471614, "timestamp": "2026-06-09 13:20:53.266835"}
+{"event_type": "ZONE_ENTER", "track_id": 12, "zone": "entry_zone", "timestamp": "2026-06-09 13:20:53.266835"}
+{"event_type": "ZONE_EXIT", "track_id": 6, "zone": "entry_zone", "dwell_time_seconds": 4.945057, "timestamp": "2026-06-09 13:20:54.735090"}
+{"event_type": "ZONE_ENTER", "track_id": 6, "zone": "entry_buffer_zone", "timestamp": "2026-06-09 13:20:54.735090"}
+{"event_type": "ZONE_EXIT", "track_id": 12, "zone": "entry_zone", "dwell_time_seconds": 4.493999, "timestamp": "2026-06-09 13:20:57.760834"}
+{"event_type": "ZONE_ENTER", "track_id": 12, "zone": "unknown", "timestamp": "2026-06-09 13:20:57.760834"}
+{"event_type": "ZONE_ENTER", "track_id": 13, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:57.882271"}
+{"event_type": "ZONE_ENTER", "track_id": 14, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:20:59.386462"}
+{"event_type": "ZONE_EXIT", "track_id": 13, "zone": "outside_walkway_zone", "dwell_time_seconds": 8.48931, "timestamp": "2026-06-09 13:21:06.371581"}
+{"event_type": "ZONE_ENTER", "track_id": 13, "zone": "entry_zone", "timestamp": "2026-06-09 13:21:06.371581"}
+{"event_type": "ZONE_ENTER", "track_id": 15, "zone": "unknown", "timestamp": "2026-06-09 13:21:06.790320"}
+{"event_type": "ZONE_EXIT", "track_id": 11, "zone": "outside_walkway_zone", "dwell_time_seconds": 20.502291, "timestamp": "2026-06-09 13:21:08.202496"}
+{"event_type": "ZONE_ENTER", "track_id": 11, "zone": "entry_zone", "timestamp": "2026-06-09 13:21:08.202496"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "entry_zone", "timestamp": "2026-06-09 13:21:08.329713"}
+{"event_type": "ZONE_ENTER", "track_id": 17, "zone": "outside_walkway_zone", "timestamp": "2026-06-09 13:21:10.385312"}
+{"event_type": "ZONE_EXIT", "track_id": 13, "zone": "entry_zone", "dwell_time_seconds": 6.02604, "timestamp": "2026-06-09 13:21:12.397621"}
+{"event_type": "ZONE_ENTER", "track_id": 13, "zone": "entry_buffer_zone", "timestamp": "2026-06-09 13:21:12.397621"}
+{"event_type": "ZONE_EXIT", "track_id": 16, "zone": "entry_zone", "dwell_time_seconds": 5.668338, "timestamp": "2026-06-09 13:21:13.998051"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "entry_buffer_zone", "timestamp": "2026-06-09 13:21:13.998051"}
+{"event_type": "ZONE_EXIT", "track_id": 16, "zone": "entry_buffer_zone", "dwell_time_seconds": 2.524673, "timestamp": "2026-06-09 13:21:16.522724"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "unknown", "timestamp": "2026-06-09 13:21:16.522724"}
+{"event_type": "ZONE_EXIT", "track_id": 17, "zone": "outside_walkway_zone", "dwell_time_seconds": 6.881142, "timestamp": "2026-06-09 13:21:17.266454"}
+{"event_type": "ZONE_ENTER", "track_id": 17, "zone": "entry_zone", "timestamp": "2026-06-09 13:21:17.266454"}
+{"event_type": "ZONE_ENTER", "track_id": 18, "zone": "unknown", "timestamp": "2026-06-09 13:21:17.885231"}
+{"event_type": "ZONE_ENTER", "track_id": 19, "zone": "unknown", "timestamp": "2026-06-09 13:21:23.448120"}
+{"event_type": "ZONE_ENTER", "track_id": 20, "zone": "unknown", "timestamp": "2026-06-09 13:21:24.881529"}
+{"event_type": "ZONE_ENTER", "track_id": 21, "zone": "entry_buffer_zone", "timestamp": "2026-06-09 13:21:25.380114"}
+{"event_type": "ZONE_ENTER", "track_id": 22, "zone": "unknown", "timestamp": "2026-06-09 13:21:28.252016"}
+{"event_type": "ZONE_EXIT", "track_id": 21, "zone": "entry_buffer_zone", "dwell_time_seconds": 4.310788, "timestamp": "2026-06-09 13:21:29.690902"}
+{"event_type": "ZONE_ENTER", "track_id": 21, "zone": "unknown", "timestamp": "2026-06-09 13:21:29.690902"}
+{"event_type": "ZONE_ENTER", "track_id": 23, "zone": "unknown", "timestamp": "2026-06-09 13:21:31.931212"}
+{"event_type": "ZONE_ENTER", "track_id": 24, "zone": "unknown", "timestamp": "2026-06-09 13:21:34.339415"}
+{"event_type": "ZONE_ENTER", "track_id": 25, "zone": "unknown", "timestamp": "2026-06-09 13:21:38.344330"}
+{"event_type": "ZONE_ENTER", "track_id": 26, "zone": "unknown", "timestamp": "2026-06-09 13:21:41.176047"}
+{"event_type": "ZONE_ENTER", "track_id": 27, "zone": "unknown", "timestamp": "2026-06-09 13:21:45.797949"}
+{"event_type": "ZONE_ENTER", "track_id": 28, "zone": "unknown", "timestamp": "2026-06-09 13:21:45.927965"}
+{"event_type": "ZONE_ENTER", "track_id": 29, "zone": "unknown", "timestamp": "2026-06-09 13:21:48.136251"}
+{"event_type": "ZONE_ENTER", "track_id": 30, "zone": "unknown", "timestamp": "2026-06-09 13:21:51.234264"}
+{"event_type": "ZONE_ENTER", "track_id": 31, "zone": "unknown", "timestamp": "2026-06-09 13:21:54.283816"}
+{"event_type": "ZONE_ENTER", "track_id": 32, "zone": "unknown", "timestamp": "2026-06-09 13:22:04.005995"}
+{"event_type": "ZONE_ENTER", "track_id": 33, "zone": "unknown", "timestamp": "2026-06-09 13:22:08.729386"}
+{"event_type": "ZONE_ENTER", "track_id": 34, "zone": "unknown", "timestamp": "2026-06-09 13:22:08.864685"}
+{"event_type": "ZONE_ENTER", "track_id": 35, "zone": "unknown", "timestamp": "2026-06-09 13:22:09.655195"}
+{"event_type": "ZONE_ENTER", "track_id": 36, "zone": "unknown", "timestamp": "2026-06-09 13:22:09.657913"}
+{"event_type": "ZONE_ENTER", "track_id": 37, "zone": "unknown", "timestamp": "2026-06-09 13:22:15.692651"}
+{"event_type": "ZONE_ENTER", "track_id": 38, "zone": "unknown", "timestamp": "2026-06-09 13:22:16.212966"}
+{"event_type": "ZONE_ENTER", "track_id": 39, "zone": "unknown", "timestamp": "2026-06-09 13:22:17.945564"}
+{"event_type": "ZONE_ENTER", "track_id": 40, "zone": "unknown", "timestamp": "2026-06-09 13:22:26.531220"}
+{"event_type": "ZONE_ENTER", "track_id": 41, "zone": "unknown", "timestamp": "2026-06-09 13:22:31.772584"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:25:20.296586"}
+{"event_type": "ZONE_EXIT", "track_id": 1, "zone": "center_walkway_zone", "dwell_time_seconds": 3.600701, "timestamp": "2026-06-09 13:25:23.897287"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "unknown", "timestamp": "2026-06-09 13:25:23.897287"}
+{"event_type": "ZONE_ENTER", "track_id": 2, "zone": "unknown", "timestamp": "2026-06-09 13:25:24.139269"}
+{"event_type": "ZONE_ENTER", "track_id": 3, "zone": "unknown", "timestamp": "2026-06-09 13:25:25.150807"}
+{"event_type": "ZONE_EXIT", "track_id": 1, "zone": "unknown", "dwell_time_seconds": 1.909086, "timestamp": "2026-06-09 13:25:25.806373"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "center_display_zone", "timestamp": "2026-06-09 13:25:25.806373"}
+{"event_type": "ZONE_EXIT", "track_id": 1, "zone": "center_display_zone", "dwell_time_seconds": 2.349896, "timestamp": "2026-06-09 13:25:28.156269"}
+{"event_type": "ZONE_ENTER", "track_id": 1, "zone": "unknown", "timestamp": "2026-06-09 13:25:28.156269"}
+{"event_type": "ZONE_ENTER", "track_id": 4, "zone": "unknown", "timestamp": "2026-06-09 13:25:28.676523"}
+{"event_type": "ZONE_ENTER", "track_id": 5, "zone": "center_display_zone", "timestamp": "2026-06-09 13:25:32.068064"}
+{"event_type": "ZONE_EXIT", "track_id": 5, "zone": "center_display_zone", "dwell_time_seconds": 2.706507, "timestamp": "2026-06-09 13:25:34.774571"}
+{"event_type": "ZONE_ENTER", "track_id": 5, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:25:34.774571"}
+{"event_type": "ZONE_ENTER", "track_id": 6, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:25:34.777319"}
+{"event_type": "ZONE_EXIT", "track_id": 5, "zone": "center_walkway_zone", "dwell_time_seconds": 1.925683, "timestamp": "2026-06-09 13:25:36.700254"}
+{"event_type": "ZONE_ENTER", "track_id": 5, "zone": "unknown", "timestamp": "2026-06-09 13:25:36.700254"}
+{"event_type": "ZONE_ENTER", "track_id": 7, "zone": "unknown", "timestamp": "2026-06-09 13:25:45.916096"}
+{"event_type": "ZONE_ENTER", "track_id": 8, "zone": "unknown", "timestamp": "2026-06-09 13:26:02.091050"}
+{"event_type": "ZONE_ENTER", "track_id": 9, "zone": "left_shelf_zone", "timestamp": "2026-06-09 13:26:05.424263"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:05.699599"}
+{"event_type": "ZONE_ENTER", "track_id": 11, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:09.783216"}
+{"event_type": "ZONE_ENTER", "track_id": 12, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:10.770165"}
+{"event_type": "ZONE_EXIT", "track_id": 10, "zone": "center_walkway_zone", "dwell_time_seconds": 6.297659, "timestamp": "2026-06-09 13:26:11.997258"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "center_display_zone", "timestamp": "2026-06-09 13:26:11.997258"}
+{"event_type": "ZONE_EXIT", "track_id": 10, "zone": "center_display_zone", "dwell_time_seconds": 2.32609, "timestamp": "2026-06-09 13:26:14.323348"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:14.323348"}
+{"event_type": "ZONE_ENTER", "track_id": 13, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:14.840212"}
+{"event_type": "ZONE_EXIT", "track_id": 10, "zone": "center_walkway_zone", "dwell_time_seconds": 4.260952, "timestamp": "2026-06-09 13:26:18.584300"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "unknown", "timestamp": "2026-06-09 13:26:18.584300"}
+{"event_type": "ZONE_EXIT", "track_id": 10, "zone": "unknown", "dwell_time_seconds": 2.60478, "timestamp": "2026-06-09 13:26:21.189080"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:21.189080"}
+{"event_type": "ZONE_ENTER", "track_id": 14, "zone": "unknown", "timestamp": "2026-06-09 13:26:22.261349"}
+{"event_type": "ZONE_ENTER", "track_id": 15, "zone": "unknown", "timestamp": "2026-06-09 13:26:23.875326"}
+{"event_type": "ZONE_EXIT", "track_id": 10, "zone": "center_walkway_zone", "dwell_time_seconds": 4.090256, "timestamp": "2026-06-09 13:26:25.279336"}
+{"event_type": "ZONE_ENTER", "track_id": 10, "zone": "unknown", "timestamp": "2026-06-09 13:26:25.279336"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:31.183757"}
+{"event_type": "ZONE_ENTER", "track_id": 17, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:33.044201"}
+{"event_type": "ZONE_EXIT", "track_id": 17, "zone": "center_walkway_zone", "dwell_time_seconds": 2.468867, "timestamp": "2026-06-09 13:26:35.513068"}
+{"event_type": "ZONE_ENTER", "track_id": 17, "zone": "center_display_zone", "timestamp": "2026-06-09 13:26:35.513068"}
+{"event_type": "ZONE_EXIT", "track_id": 16, "zone": "center_walkway_zone", "dwell_time_seconds": 4.979531, "timestamp": "2026-06-09 13:26:36.163288"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "unknown", "timestamp": "2026-06-09 13:26:36.163288"}
+{"event_type": "ZONE_ENTER", "track_id": 18, "zone": "unknown", "timestamp": "2026-06-09 13:26:38.176084"}
+{"event_type": "ZONE_ENTER", "track_id": 19, "zone": "unknown", "timestamp": "2026-06-09 13:26:38.449695"}
+{"event_type": "ZONE_ENTER", "track_id": 20, "zone": "left_shelf_zone", "timestamp": "2026-06-09 13:26:38.452068"}
+{"event_type": "ZONE_EXIT", "track_id": 16, "zone": "unknown", "dwell_time_seconds": 3.450471, "timestamp": "2026-06-09 13:26:39.613759"}
+{"event_type": "ZONE_ENTER", "track_id": 16, "zone": "center_display_zone", "timestamp": "2026-06-09 13:26:39.613759"}
+{"event_type": "ZONE_EXIT", "track_id": 17, "zone": "center_display_zone", "dwell_time_seconds": 6.411915, "timestamp": "2026-06-09 13:26:41.924983"}
+{"event_type": "ZONE_ENTER", "track_id": 17, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:41.924983"}
+{"event_type": "ZONE_ENTER", "track_id": 21, "zone": "center_display_zone", "timestamp": "2026-06-09 13:26:45.077194"}
+{"event_type": "ZONE_ENTER", "track_id": 22, "zone": "right_shelf_zone", "timestamp": "2026-06-09 13:26:47.688018"}
+{"event_type": "ZONE_ENTER", "track_id": 23, "zone": "unknown", "timestamp": "2026-06-09 13:26:48.945893"}
+{"event_type": "ZONE_ENTER", "track_id": 24, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:49.754694"}
+{"event_type": "ZONE_EXIT", "track_id": 19, "zone": "unknown", "dwell_time_seconds": 11.833621, "timestamp": "2026-06-09 13:26:50.283316"}
+{"event_type": "ZONE_ENTER", "track_id": 19, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:50.283316"}
+{"event_type": "ZONE_ENTER", "track_id": 25, "zone": "unknown", "timestamp": "2026-06-09 13:26:50.421322"}
+{"event_type": "ZONE_EXIT", "track_id": 24, "zone": "center_walkway_zone", "dwell_time_seconds": 3.307866, "timestamp": "2026-06-09 13:26:53.062560"}
+{"event_type": "ZONE_ENTER", "track_id": 24, "zone": "unknown", "timestamp": "2026-06-09 13:26:53.062560"}
+{"event_type": "ZONE_EXIT", "track_id": 19, "zone": "center_walkway_zone", "dwell_time_seconds": 3.315557, "timestamp": "2026-06-09 13:26:53.598873"}
+{"event_type": "ZONE_ENTER", "track_id": 19, "zone": "center_display_zone", "timestamp": "2026-06-09 13:26:53.598873"}
+{"event_type": "ZONE_EXIT", "track_id": 21, "zone": "center_display_zone", "dwell_time_seconds": 8.655842, "timestamp": "2026-06-09 13:26:53.733036"}
+{"event_type": "ZONE_ENTER", "track_id": 21, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:53.733036"}
+{"event_type": "ZONE_EXIT", "track_id": 23, "zone": "unknown", "dwell_time_seconds": 9.895278, "timestamp": "2026-06-09 13:26:58.841171"}
+{"event_type": "ZONE_ENTER", "track_id": 23, "zone": "right_shelf_zone", "timestamp": "2026-06-09 13:26:58.841171"}
+{"event_type": "ZONE_EXIT", "track_id": 19, "zone": "center_display_zone", "dwell_time_seconds": 6.076226, "timestamp": "2026-06-09 13:26:59.675099"}
+{"event_type": "ZONE_ENTER", "track_id": 19, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:26:59.675099"}
+{"event_type": "ZONE_ENTER", "track_id": 26, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:03.762068"}
+{"event_type": "ZONE_ENTER", "track_id": 27, "zone": "right_shelf_zone", "timestamp": "2026-06-09 13:27:04.758087"}
+{"event_type": "ZONE_ENTER", "track_id": 28, "zone": "unknown", "timestamp": "2026-06-09 13:27:08.235317"}
+{"event_type": "ZONE_ENTER", "track_id": 29, "zone": "center_display_zone", "timestamp": "2026-06-09 13:27:10.079189"}
+{"event_type": "ZONE_ENTER", "track_id": 30, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:10.080579"}
+{"event_type": "ZONE_ENTER", "track_id": 31, "zone": "unknown", "timestamp": "2026-06-09 13:27:12.361996"}
+{"event_type": "ZONE_ENTER", "track_id": 32, "zone": "unknown", "timestamp": "2026-06-09 13:27:14.337938"}
+{"event_type": "ZONE_EXIT", "track_id": 32, "zone": "unknown", "dwell_time_seconds": 2.387181, "timestamp": "2026-06-09 13:27:16.725119"}
+{"event_type": "ZONE_ENTER", "track_id": 32, "zone": "center_display_zone", "timestamp": "2026-06-09 13:27:16.725119"}
+{"event_type": "ZONE_ENTER", "track_id": 33, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:16.860113"}
+{"event_type": "ZONE_ENTER", "track_id": 34, "zone": "center_display_zone", "timestamp": "2026-06-09 13:27:18.427505"}
+{"event_type": "ZONE_ENTER", "track_id": 35, "zone": "unknown", "timestamp": "2026-06-09 13:27:19.477472"}
+{"event_type": "ZONE_EXIT", "track_id": 34, "zone": "center_display_zone", "dwell_time_seconds": 1.969294, "timestamp": "2026-06-09 13:27:20.396799"}
+{"event_type": "ZONE_ENTER", "track_id": 34, "zone": "unknown", "timestamp": "2026-06-09 13:27:20.396799"}
+{"event_type": "ZONE_ENTER", "track_id": 36, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:21.047776"}
+{"event_type": "ZONE_EXIT", "track_id": 32, "zone": "center_display_zone", "dwell_time_seconds": 4.743967, "timestamp": "2026-06-09 13:27:21.469086"}
+{"event_type": "ZONE_ENTER", "track_id": 32, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:21.469086"}
+{"event_type": "ZONE_ENTER", "track_id": 37, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:21.476035"}
+{"event_type": "ZONE_ENTER", "track_id": 38, "zone": "center_display_zone", "timestamp": "2026-06-09 13:27:23.112646"}
+{"event_type": "ZONE_ENTER", "track_id": 39, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:25.554870"}
+{"event_type": "ZONE_EXIT", "track_id": 36, "zone": "center_walkway_zone", "dwell_time_seconds": 5.160939, "timestamp": "2026-06-09 13:27:26.208715"}
+{"event_type": "ZONE_ENTER", "track_id": 36, "zone": "center_display_zone", "timestamp": "2026-06-09 13:27:26.208715"}
+{"event_type": "ZONE_EXIT", "track_id": 30, "zone": "center_walkway_zone", "dwell_time_seconds": 16.881402, "timestamp": "2026-06-09 13:27:26.961981"}
+{"event_type": "ZONE_ENTER", "track_id": 30, "zone": "unknown", "timestamp": "2026-06-09 13:27:26.961981"}
+{"event_type": "ZONE_ENTER", "track_id": 40, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:27.929500"}
+{"event_type": "ZONE_EXIT", "track_id": 36, "zone": "center_display_zone", "dwell_time_seconds": 2.372062, "timestamp": "2026-06-09 13:27:28.580777"}
+{"event_type": "ZONE_ENTER", "track_id": 36, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:28.580777"}
+{"event_type": "ZONE_EXIT", "track_id": 36, "zone": "center_walkway_zone", "dwell_time_seconds": 3.668403, "timestamp": "2026-06-09 13:27:32.249180"}
+{"event_type": "ZONE_ENTER", "track_id": 36, "zone": "unknown", "timestamp": "2026-06-09 13:27:32.249180"}
+{"event_type": "ZONE_EXIT", "track_id": 39, "zone": "center_walkway_zone", "dwell_time_seconds": 10.468638, "timestamp": "2026-06-09 13:27:36.023508"}
+{"event_type": "ZONE_ENTER", "track_id": 39, "zone": "unknown", "timestamp": "2026-06-09 13:27:36.023508"}
+{"event_type": "ZONE_ENTER", "track_id": 41, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:39.239425"}
+{"event_type": "ZONE_ENTER", "track_id": 42, "zone": "center_walkway_zone", "timestamp": "2026-06-09 13:27:41.914184"}
+{"event_type": "ZONE_ENTER", "track_id": 43, "zone": "unknown", "timestamp": "2026-06-09 13:27:42.705563"}
+{"event_type": "ZONE_EXIT", "track_id": 42, "zone": "center_walkway_zone", "dwell_time_seconds": 2.551758, "timestamp": "2026-06-09 13:27:44.465942"}
+{"event_type": "ZONE_ENTER", "track_id": 42, "zone": "unknown", "timestamp": "2026-06-09 13:27:44.465942"}
+{"event_type": "ZONE_ENTER", "track_id": 44, "zone": "unknown", "timestamp": "2026-06-09 13:27:46.336974"}
+{"event_type": "ZONE_ENTER", "track_id": 45, "zone": "unknown", "timestamp": "2026-06-09 13:27:48.424134"}
+{"event_type": "ZONE_ENTER", "track_id": 46, "zone": "unknown", "timestamp": "2026-06-09 13:27:55.725232"}
+{"event_type": "ZONE_ENTER", "track_id": 47, "zone": "unknown", "timestamp": "2026-06-09 13:28:03.177732"}
+{"event_type": "ZONE_EXIT", "track_id": 46, "zone": "unknown", "dwell_time_seconds": 8.76802, "timestamp": "2026-06-09 13:28:04.493252"}
+{"event_type": "ZONE_ENTER", "track_id": 46, "zone": "center_display_zone", "timestamp": "2026-06-09 13:28:04.493252"}
